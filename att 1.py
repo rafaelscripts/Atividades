@@ -1,4 +1,3 @@
-#Dupla = Flávio, João V. Barbosa
 
 class Carro:
     def __init__(self, marca, modelo, ano, cor):
